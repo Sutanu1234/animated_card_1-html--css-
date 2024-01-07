@@ -1,6 +1,1 @@
-<h2> Result : </h2>
-<br>
-<br>
-<img src = "https://i.postimg.cc/J490MLG0/Screenshot-2024-01-07-171915.png">
-<br>
-<img src = "https://i.postimg.cc/xd901TYf/Screenshot-2024-01-07-171929.png">
+https://github.com/Sutanu1234/animated_card_1-html--css-/assets/123285380/1891c3b5-b8e5-4fad-9cc9-34b4f6fa8fa7
